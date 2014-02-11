@@ -5,7 +5,7 @@ And the mome raths outgrabe.
 
 Beware the Jabberwock, my son
 The jaws that bite, the claws that catch
-Beware the ? bird, and shun
+Beware the Jub-Jub bird, and shun
 The frumious Bandersnatch
 
 He took his vorpal blade in hand
@@ -26,4 +26,5 @@ He went gallumphing back
 "And hast though slain the Jabberwock?
 Come to my arms, my beamish boy!
 Oh frabjous day! Callooh! Callay!"
-He chortled in his joy
+He chortled in his joy.
+
